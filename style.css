@@ -1,0 +1,62 @@
+.contenedor{
+    display: flex;
+    margin-top: 10%;
+}
+.main {
+    background-color: gainsboro;
+}
+
+.contenedor2{
+    display: flex;
+    justify-content: space-around;
+   
+}
+
+
+
+#nuevoInvitado{
+    width: 90%;
+  
+}
+
+.nombreasistente{
+    width: 100%;
+    margin: 0%, 100%;
+  
+}
+
+.cajita{
+    
+    margin: 0%, 100%;
+   
+}
+#btnn{
+    background-color: green;
+    padding: 5px;
+    border-radius: 10px;
+}
+.btn{
+   
+    width: 100%;
+    margin: 0%, 100%;
+    
+}
+
+.spec{
+    display: flex;
+    margin-right: 20%;
+}
+
+.spec2{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 5%;
+}
+.id2{
+    margin-right: 20%;
+  
+}
+
+.id3 {
+    margin-left: 50%;
+}
